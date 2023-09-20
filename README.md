@@ -583,24 +583,21 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output screen shots of proteus  :
 
 
-![c1](https://github.com/imthiyas19/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/120353416/84f968c0-a13c-4aff-9d8d-1ac923351539)
+
+![f1](https://github.com/imthiyas19/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/120353416/f725e615-cede-4b01-ada6-4abfece08d42)
 
 
-![c2](https://github.com/imthiyas19/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/120353416/8a163ca4-9e40-4461-bb44-b74cd7d1a115)
 
 
-![c3](https://github.com/imthiyas19/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/120353416/fe61829a-c37c-4196-a61e-8be603f944a6)
 
-
- ![c4](https://github.com/imthiyas19/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/120353416/c7a33c06-47fa-494b-89e0-3571076ad822)
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE):
 
 
-![c5](https://github.com/imthiyas19/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/120353416/462ab164-a396-4c80-bd7d-58b3dca23c51)
 
- 
+ ![f2](https://github.com/imthiyas19/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/120353416/b806a1a2-c3af-4470-bb9e-4a424c128a6a)
+
  
 ## Result :
 Interfacing a 4x4 keypad with ARM microcontroller are simulated in proteus and the results are verified.
