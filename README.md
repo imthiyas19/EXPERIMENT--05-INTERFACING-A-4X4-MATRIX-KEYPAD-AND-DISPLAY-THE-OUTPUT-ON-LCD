@@ -185,6 +185,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 DEVELOPED BY:Mohammed imthiyas
 REG.NO:212222230083
 ```
+```
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
@@ -573,8 +574,7 @@ void assert_failed(uint8_t *file, uint32_t line)
      ex: printf("Wrong parameters value: file %s on line %d\r\n", file, line) */
   /* USER CODE END 6 */
 }
-#endif /* USE_FULL_ASSERT */
-
+#endif /* USE_FULL_ASSERT *
 ```
 
 
